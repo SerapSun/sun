@@ -6,3 +6,5 @@ sdfsdf
 t1 rebase commit 01
 
 t1 rebase commit 02
+
+t1 merge commit
